@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.Android.Support.v4</id>
+    <version>23.1.1.1</version>
+    <title>Xamarin Android Support Library - v4</title>
+    <authors>Xamarin Inc.</authors>
+    <owners>Xamarin Inc.</owners>
+    <licenseUrl>http://components.xamarin.com/license/xamandroidsupportv4-18</licenseUrl>
+    <projectUrl>http://developer.android.com/tools/support-library/</projectUrl>
+    <iconUrl>https://xamarin-component-icons.s3.amazonaws.com/Xamarin.Android.Support.v4.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>v4 Android Support Library C# bindings for Xamarin</description>
+    <copyright>Copyright 2013-2016</copyright>
+  </metadata>
+</package>
